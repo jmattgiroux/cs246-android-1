@@ -1,21 +1,18 @@
 # cs246-android-1
 
-# cs246-java-1
 
 Program Description: 
 
 This is an adaptation of the ChangeCalculator I created in Java.
 The ChangeCalculator is
-"A program that finds the change for a transaction using the smallest amount of coins.\
-The purpose of creating this program is to gain familiarity with the following\
-programming elements within Java:"
+"A program that finds the change for a transaction using the smallest amount of coins."
 
 - Variables (DONE)
 - Expressions (DONE)
 - Conditionals (DONE)
 - Loops (NOT DONE)
-- Functions (NOT DONE)
-- Classes (NOT DONE (unless you count the CalculateChange class))
+- Functions (Done)
+- Classes (Done)
 
 
 Development Environment: 
