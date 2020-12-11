@@ -11,8 +11,8 @@ The ChangeCalculator is
 - Expressions (DONE)
 - Conditionals (DONE)
 - Loops (NOT DONE)
-- Functions (Done)
-- Classes (Done)
+- Functions (Not Done)
+- Classes (Not Done)
 
 
 Development Environment: 
