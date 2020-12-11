@@ -21,11 +21,11 @@ Windows 10
 
 openjdk version "14.0.2" 2020-07-14\
 OpenJDK Runtime Environment (build 14.0.2+12-Ubuntu-120.04)\ 
-OpenJDK 64-Bit Server VM (build 14.0.2+12-Ubuntu-120.04, mixed mode, sharing)\
+OpenJDK 64-Bit Server VM (build 14.0.2+12-Ubuntu-120.04, mixed mode, sharing)
 
 Android Studio
 
-Build and Execution Instructions:\
+Build and Execution Instructions:
 
 clone this git repository
 open the project in Android Studio
