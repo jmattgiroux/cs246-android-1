@@ -43,7 +43,7 @@ Screenshots:
 
 - This is a screenshot of a bug the app has; for some reason, subtracting the cost float from the cash float sometimes results in a penny being lost.
 
-![bug screenshot](https://github.com/jmattgiroux/cs246-android-1/blob/main/Screenshot%20(124).png)
+![bug screenshot]()
 
 
 List of Useful Websites:
