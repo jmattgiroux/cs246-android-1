@@ -7,13 +7,11 @@ This is an adaptation of the ChangeCalculator I created in Java.
 The ChangeCalculator is
 "A program that finds the change for a transaction using the smallest amount of coins."
 
-- Variables (DONE)
-- Expressions (DONE)
-- Conditionals (DONE)
-- Loops (NOT DONE)
-- Functions (Not Done)
-- Classes (Not Done)
-
+Module Requirements:
+- Have at least one screen (DONE)
+- Be interactive with the user (DONE)
+- Be helpful in performing a task that you, or someone you know, do on a frequent basis (DONE, aside from the bug that loses a penny...)
+- Run successfully on an Android device (or on an emulator) (DONE)
 
 Development Environment: 
 
