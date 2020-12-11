@@ -39,11 +39,11 @@ Screenshots:
 
 - This is a gif of the app running; it calculates change, and handles invalid input without crashing.
 
-![gif]()
+![gif](https://github.com/jmattgiroux/cs246-android-1/blob/main/changeCalculator.gif)
 
 - This is a screenshot of a bug the app has; for some reason, subtracting the cost float from the cash float sometimes results in a penny being lost.
 
-![bug screenshot]()
+![bug screenshot](https://github.com/jmattgiroux/cs246-android-1/blob/main/Screenshot%20(124).png)
 
 
 List of Useful Websites:
